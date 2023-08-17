@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yannickmarz
+- 👀 I’m interested in HTML, CSS, Javascript and Shopify Liquid
+- 🌱 I’m currently learning Full Stack Development with The Odin Project
